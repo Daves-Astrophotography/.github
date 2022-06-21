@@ -1,8 +1,9 @@
 # Hi there 👋, welcome to Dave's Astrophotography
 
 ### This is a place for all code things related to my astro projects.
-
-
+   
+   
+And here is an image I captured. This is the Iris Nebula NGC 7023, and was captured with the Rasa11, ASI2600MC-P and has 9hr 45min total integration time, shot over 3 nights.   
 
 ![Iris Nebula](https://user-images.githubusercontent.com/4674288/174803185-122ba35b-3b91-4b92-a794-0cb24b53752c.png)
 
